@@ -1,0 +1,18 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "testing1",
+      "isbn": "12345678",
+      "key": "",
+      "reserve": ""
+    },
+    {
+      "id": 2,
+      "name": "testing2",
+      "isbn": "12345678",
+      "key": "",
+      "reserve": ""
+    }
+  ]
+}
